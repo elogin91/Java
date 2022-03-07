@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author xesa
- *
- */
-module prototipo {
-}
