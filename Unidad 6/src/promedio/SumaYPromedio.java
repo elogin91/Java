@@ -18,6 +18,7 @@ public class SumaYPromedio {
 		System.out.println(sum);
 		System.out.print("The average result is: ");
 		System.out.println(aver);
+		inputKey.close();
 	}
 
 }

@@ -18,6 +18,7 @@ public class SumaProducto2 {
         System.out.println(sum);
         System.out.print("The plus result is: ");
         System.out.println(plus);
+        inputKey.close();
     }
 
 }

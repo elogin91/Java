@@ -15,5 +15,6 @@ public class Condicional1 {
     	{
     		 System.out.println("Esta persona NO debe abonar impuestos");
     	}
+    	teclado.close();
     }
 }

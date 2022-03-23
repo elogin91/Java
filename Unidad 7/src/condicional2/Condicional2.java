@@ -22,5 +22,6 @@ public class Condicional2 {
 		    		System.out.print("La división de los dos números introducidos es: ");
 		    		System.out.println(num1/num2);
 		    	}
+		    	teclado.close();
 		    }
 }

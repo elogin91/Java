@@ -15,5 +15,6 @@ public class SumaProductoNumeros {
     	System.out.println(suma);
     	System.out.print("El producto de los dos valores es:");
     	System.out.println(producto);
+    	teclado.close();
     }
 }

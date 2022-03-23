@@ -16,5 +16,6 @@ public class CondicionalCompuesta1 {
 	    	} else {
 	    		System.out.print(num2);
 	    	}
+	    	teclado.close();
 	    }
 }

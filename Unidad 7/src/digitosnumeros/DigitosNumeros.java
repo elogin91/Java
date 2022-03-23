@@ -19,5 +19,6 @@ public class DigitosNumeros {
     	else {
     		System.out.print("El número introducido no es válido.");
     	}
+    	teclado.close();
     }
 }

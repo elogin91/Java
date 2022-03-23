@@ -15,5 +15,6 @@ public class SquarePerimeter {
 
 	    System.out.print("The square perimeter is ");
 	    System.out.println(perimeter);
+	    inputKey.close();
 	    }
 	}

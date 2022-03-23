@@ -12,6 +12,8 @@ public class SuperficieCuadrado {
 	        superficie=lado * lado;
 	        System.out.print("La superficie del cuadrado es:");
 	        System.out.print(superficie);
+	   	 teclado.close();
 	    }
+
 
 }

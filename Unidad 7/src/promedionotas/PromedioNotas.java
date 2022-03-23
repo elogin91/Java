@@ -18,5 +18,6 @@ public class PromedioNotas {
 	    	} else {
 	    		System.out.print("EL alumno NO ha PROMOCIONADO.");
 	    	}
+	    	teclado.close();
 	    }
 }
